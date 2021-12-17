@@ -1,0 +1,79 @@
+#fondo {
+    background-image: url("./fondo-casa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+
+#fondo-t {
+    background-color: rgba(218, 138, 18, 0.24);
+    width: 100%;
+    height: 100vh;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: rgb(47, 194, 194, 0.0);
+    border-radius: .3rem;
+}
+
+.titulo {
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.subtitulo {
+    color: white;
+    font-weight: bold;
+}
+
+.boton {
+    border-radius: .9rem;
+    width: 85%;
+    height: 37px;
+    border: 2px solid black;
+}
+
+.boton-regvia {
+    background-color: rgba(75, 255, 212, 0.7);
+}
+
+.boton-reggui {
+    background-color: rgba(74, 136, 255, 0.7);
+}
+
+.boton-usu {
+    background-color: rgba(255, 246, 24, 0.7);
+}
+
+.boton-con {
+    background-color: rgba(198, 76, 255, 0.7);
+}
+
+h5 {
+    color: #000000;
+    font-weight: bold;
+    font-family: roboto;
+}
+
+hr {
+    color: rgba(255, 255, 255, 0.0);
+}
+
+.boton-cerses {
+    background-color: rgba(0, 0, 0);
+    position: absolute;
+    bottom: 3%;
+    left: 5%;
+    width: 35%;
+    height: 37px;
+    border-radius: .9rem;
+}
+
+.salir {
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
